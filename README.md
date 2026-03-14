@@ -67,6 +67,7 @@ Certification
 
 This project demonstrates the skills acquired in the Google Data Analytics Professional Certificate (Coursera), covering the entire data life cycle: ask, prepare, process, analyze, share, and act.European Tech Layoffs Analysis (2020–2025)
 
+European Tech Layoffs Analysis (2020–2025)
 Este é o projeto final do curso de Análise de Dados da Coursera. O objetivo principal foi analisar o impacto dos layoffs no setor tecnológico europeu entre 2020 e 2025, utilizando um pipeline completo de dados: R para limpeza, SQL para análise exploratória e Tableau para visualização interativa.
 
 Objetivos do Projeto
