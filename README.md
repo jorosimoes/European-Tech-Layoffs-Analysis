@@ -65,9 +65,11 @@ Sectors in Decline: The Food Delivery and Quick Commerce industry underwent mass
 Giants vs. Startups: Contrary to expectations, already public companies (Post-IPO) were responsible for the largest total volume of layoffs.
 Certification
 
-This project demonstrates the skills acquired in the Google Data Analytics Professional Certificate (Coursera), covering the entire data life cycle: ask, prepare, process, analyze, share, and act.European Tech Layoffs Analysis (2020–2025)
+This project demonstrates the skills acquired in the Google Data Analytics Professional Certificate (Coursera). 
 
-European Tech Layoffs Analysis (2020–2025)
+
+Análise de Despedimentos no Setor Tecnológico na Europa (2020–2025)
+
 Este é o projeto final do curso de Análise de Dados da Coursera. O objetivo principal foi analisar o impacto dos layoffs no setor tecnológico europeu entre 2020 e 2025, utilizando um pipeline completo de dados: R para limpeza, SQL para análise exploratória e Tableau para visualização interativa.
 
 Objetivos do Projeto
@@ -125,12 +127,12 @@ Durante o projeto, detetei inconsistências na fonte original (países como USA 
 Filtros de exclusão manuais no Tableau.
 Validação cruzada entre as colunas Country e Continent no R.
 Manutenção de NULLs em campos de tamanho de empresa para evitar enviesamento da média.
-🔍 Principais Insights
+Principais Insights
 
 O Ano Crítico: 2023 foi o ano com maior volume de layoffs, refletindo o ajuste pós-pandemia.
 Líderes Geográficos: Alemanha e Reino Unido concentram a maior fatia dos despedimentos tech na Europa.
 Setores em Queda: A indústria de Food Delivery e Quick Commerce sofreu ajustes massivos.
-Gigantes vs Startups: Contrariamente ao esperado, as empresas já cotadas em bolsa (Post-IPO) foram responsáveis pelo maior volume total de layoffs.
-🎓 Certificação
+Gigantes vs Startups: As empresas já cotadas em bolsa (Post-IPO) foram responsáveis pelo maior volume total de layoffs.
+Certificação
 
-Este projeto demonstra as competências adquiridas no Certificado Profissional de Análise de Dados da Coursera, cobrindo todo o ciclo de vida dos dados: perguntar, preparar, processar, analisar, partilhar e agir.
+Este projeto demonstra as competências adquiridas no Certificado Profissional de Análise de Dados da Coursera.
